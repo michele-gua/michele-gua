@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Miche</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zmmiche&label=Profile%20views&color=0e75b6&style=flat" alt="zmmiche" /> </p>
+
 
 - 🌱 I’m currently learning **Html, Css and Javascript but i also want to learn java**
 
@@ -15,3 +15,4 @@
 <div display:flex>
 <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white"></img> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"></img> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"></img><a href="https://www.reddit.com/user/zMMiche"> <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"></img></a> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></img>
 </div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zmmiche&label=Profile%20views&color=0e75b6&style=flat" alt="zmmiche" /> </p>
