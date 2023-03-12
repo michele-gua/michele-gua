@@ -17,5 +17,5 @@
 </div>
 
 <h3>Here's what i am listening to on spotify!</h3>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5k34wfmzltnob9xbbcucbjd5e&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)
+[spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5k34wfmzltnob9xbbcucbjd5e&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zmmiche&label=Profile%20views&color=0e75b6&style=flat" alt="zmmiche" /> </p>
