@@ -15,4 +15,7 @@
 <div display:flex>
 <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white"></img> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"></img> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"></img><a href="https://www.reddit.com/user/zMMiche"> <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"></img></a> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></img>
 </div>
+
+<h3>Here's what i am listening to on spotify!</h3>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5k34wfmzltnob9xbbcucbjd5e&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zmmiche&label=Profile%20views&color=0e75b6&style=flat" alt="zmmiche" /> </p>
