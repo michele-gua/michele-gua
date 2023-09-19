@@ -5,7 +5,7 @@
 
 - 📫 If you want to reach me you can e-mail to **micheleguarino_2007@proton.me**
 
-- ⚡ Fun fact **I'm 15 years old**
+- ⚡ Fun fact **I'm 16 years old**
 <p align="left">
 </p>
 
