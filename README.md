@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Html, Css and Javascript but i also want to learn java**
 
-- 📫 If you want to reach me you can e-mail to **micheleguarino_2007@proton.me**
+- 📫 If you want to reach me you can e-mail to **mmichele.guarinoo@gmail.com**
 
 - ⚡ Fun fact **I'm 17 years old**
 <p align="left">
