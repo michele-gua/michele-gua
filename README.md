@@ -1,11 +1,13 @@
 <h1 align="center">👋 Hi, I'm Miche</h1>
 
+- 👤 **17** years old, from **Italy**!
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, PHP, C++, C#, Python**
+- 🌍 Known languages: **HTML, CSS, Javascript, C++**
+
+- 🌱 I’m currently learning **PHP, C#, Python**
 
 - 📫 If you want to reach me you can e-mail to **mmichele.guarinoo@gmail.com**
-
-- ⚡ Fun fact **I'm 17 years old**
+ 
 <p align="left">
 </p>
 
