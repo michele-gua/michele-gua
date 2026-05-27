@@ -21,7 +21,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="width: 100px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="width: 100px;"/>
 </div>
-
-<h3>Here's what i am listening to on spotify!</h3>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=5k34wfmzltnob9xbbcucbjd5e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=5k34wfmzltnob9xbbcucbjd5e&redirect=true)
