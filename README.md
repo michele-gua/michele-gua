@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Miche</h1>
 
-- 👤 **18** years old, from **Italy**!
+- 👤 **19** years old, from **Italy**!
 
 - 🌍 Known languages: **HTML, CSS, Javascript, C++**
 
